@@ -20,7 +20,7 @@
 * **Tech:** Python, Next.js, TypeScript, FastAPI, Data Ingestion Pipelines
 * **Status:** Core architecture and data processing models are currently being built and integrated into the web dashboard.
 
-#### 🤖 [Senior-Design-COBOTS](https://github.com/liamprogulske/Senior-Design-COBOTS)
+#### 🤖 Senior-Design-COBOTS
 > Senior computer engineering project orchestrating dual robotic arms to autonomously play chess using embedded motion control, kinematics, and decision-making logic.
 * **Tech:** C++, Python, Robotics Kinematics, Embedded Systems
 
