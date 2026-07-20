@@ -36,8 +36,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liamprogulske&show_icons=true&theme=nord" alt="Liam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamprogulske&layout=compact&theme=nord" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=liamprogulske&show_icons=true&theme=nord" alt="Liam's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=liamprogulske&show_icons=true&layout=compact&theme=nord" alt="Top Languages" />
 </div>
 
 ---
