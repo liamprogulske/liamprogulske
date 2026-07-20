@@ -47,6 +47,12 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ---
 
+### 🎓 Education
+
+* **M.S. in Technology Management** | Marymount University
+* **B.S. in Computer Engineering** | Florida Tech
+---
+
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/liam-progulske-91522122a/](https://linkedin.com)
 - **GitHub:** [github.com/liamprogulske](https://github.com/liamprogulske)
